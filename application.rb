@@ -7,4 +7,4 @@ class Person
   end
 end
 
-p = Person.new('Gabor', 275)
+p = Person.new('Gabor', 27)
